@@ -1,2 +1,2 @@
-# WebSite
+# mySite
 サイトを作りたい
